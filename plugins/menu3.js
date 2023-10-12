@@ -54,7 +54,7 @@ await conn.sendMessage(m.chat, {
   }  
   }, { quoted: m })
 }  
-if (command == "menucompleto" || command == "allmenu") {
+if (command == "vacalissmo" || command == "kslsksnsku") {
 await m.reply(`[ 𝐂𝐀𝐑𝐆𝐀𝐍𝐃𝐎 𝐌𝐄𝐍𝐔... ]`);                 
 var completomenu = `*╭━━❍𝑺𝒉𝒂𝒅𝒐𝒘𝑩𝒐𝒕❍━━╮* 
  *┣━━━▢ ❤𝐇𝐎𝐋𝐀, ${username}❤*• 
